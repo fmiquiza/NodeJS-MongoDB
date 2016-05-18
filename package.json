@@ -1,0 +1,10 @@
+{
+  "name"         : "UAB Taller de aplicaciones",
+  "version"      : "0.0.1",
+  "description"  : "NodeJS con MongoDB",
+  "main"         : "server.js",
+  "dependencies" : {
+    "express"    : "~3.4.4",
+    "mongoose"   : "~3.6.2"
+  }
+}
